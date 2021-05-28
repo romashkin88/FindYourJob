@@ -248,7 +248,7 @@ img {
         transform: translateX(-100%);
         transition: transform 0.3s;
     }
-    is-open {
+    .is-open {
         transform: translateX(0);
     }
     .menu-item:not(:last-child) {
